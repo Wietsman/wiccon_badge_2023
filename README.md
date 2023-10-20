@@ -17,4 +17,4 @@
     | SDA   | Not connected (sorry) |        
     | GPI12 | General-purpose pin   |
     | GPI13 | General-purpose pin   |    
-![alt text](https://github.com/Wietsman/wiccon_badge_2023/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/Wietsman/wiccon_badge_2023/blob/master/images/addons-sao-v1_69bis.png?raw=true)
